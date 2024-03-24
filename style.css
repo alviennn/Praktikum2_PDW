@@ -1,0 +1,17 @@
+body{
+    border-style: groove;
+    height :fit-content;
+    width: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+h2 {
+    color: brown;
+}
+h1{
+    color: red;
+}
